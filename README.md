@@ -1,4 +1,4 @@
-# Machine-Learning-Model-Car-Price-Prediction
+# Machine Learning Model Car Price Prediction
 
 The objective of this project is to develop accurate car price prediction models using machine learning algorithms. By analyzing the provided dataset and applying various techniques, including gradient boosting, random forest, and linear regression, the goal is to create models that can effectively estimate car prices based on relevant features. The assignment focuses on exploring different algorithms, evaluating their performance, and selecting the most accurate model for predicting car prices. The ultimate aim is to enhance the understanding and application of machine learning in the context of car price prediction.
 
